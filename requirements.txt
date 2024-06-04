@@ -1,6 +1,6 @@
 yfinance
 pandas
-pandas_datareader
+pandas_datareader==0.10.0
 numpy
 scikit-learn
 Flask
@@ -8,3 +8,4 @@ matplotlib
 seaborn
 Werkzeug
 wheel
+yfinance==0.2.40

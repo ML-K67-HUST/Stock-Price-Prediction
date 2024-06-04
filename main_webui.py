@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import pandas as pd
-from read_the_data import read_the_data
-from crawling_data import fetch_stock_data
+from  read_the_data import read_the_data
+from  crawling_data import fetch_stock_data
 from LinReg import Lr_implement
 from KNN import KNN_implement
 from Tree import Tree_implement
